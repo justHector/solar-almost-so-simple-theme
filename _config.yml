@@ -17,7 +17,8 @@ description: "Al parecer ahora si ya funciona éste theme..."
 url: "//justhector.github.io/almost-so-simple-theme/"
 #logo:  '/images/shield_DAR_fondo.png' # eitplume_SOHO_Sun_mod.png # 
 #logo:  '/images/AburridoDigital-200x143.jpg'
-logo:  '/images/AburridoDigital-300x215.jpg'
+#logo:  '/images/AburridoDigital-300x215.jpg'
+logo:  '/images/AburridoDigital-1200x859.jpg'
 date_format: "%-d %B %Y" # "originally %B %-d, %Y" 
 read_time: true
 words_per_minute: 200
