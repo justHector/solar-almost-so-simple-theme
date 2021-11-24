@@ -12,13 +12,10 @@
 #theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme"
 locale: en_US
-title: "Heliotactic Press"
-description: "Solar Prof, Queer Trans Artist, Budding Photon Wrangler | 
-Solar Ecology my framework | Group Agency my medium | kava my bev | 
-Paris my retreat | They/Them/Theirs pronouns | 
-Sustainabilty - Performativity - Quantum Field Theory - Solidarity"
-url: "//heliotactic.github.io"
-logo:  '/images/Sunpath_41_N-1.png' # eitplume_SOHO_Sun_mod.png # 
+title: "Por fin es un almost so simple theme"
+description: "Al parecer ahora si ya funciona éste theme..."
+url: "//justhector.github.io/almost-so-simple-theme/"
+logo:  '/images/shield_DAR_fondo.png' # eitplume_SOHO_Sun_mod.png # 
 date_format: "%-d %B %Y" # "originally %B %-d, %Y" 
 read_time: true
 words_per_minute: 200
@@ -33,10 +30,10 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
-disqus:
-  shortname: heliotactic # Disqus shortname, e.g. "my_disqus_shortname"
+# disqus:
+#   shortname: heliotactic # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: heliotactic # site's Twitter username, e.g. "mmistakes
+  username: _justHector # site's Twitter username, e.g. "mmistakes
 
 # Liquid
 liquid:
@@ -121,13 +118,13 @@ defaults:
 
 # Site Author
 author:
-  name: Frey Brownson, PhD
+  name: justHector, IAS
   picture: /images/Brownson.jpg
-  email: heliotactic@gmail.com
-  twitter: heliotactic
-  github: Heliotactic
-  linkedin: Heliotactic
-  instagram: Heliotactic
+  # email: heliotactic@gmail.com
+  twitter: _justHector
+  github: justHector
+  # linkedin: Heliotactic
+  # instagram: Heliotactic
   # links:
   #   - title:
   #     url:
