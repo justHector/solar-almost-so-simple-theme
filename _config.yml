@@ -19,7 +19,7 @@ remote_theme: "mmistakes/so-simple-theme"
 
 locale: en_US
 title: "Aburrido.Digital"
-skin: "/assets/css/skins/default.scss"
+skin: "/assets/css/skins/default.css"
 
 description: "Al parecer ahora si ya funciona éste theme..."
 
