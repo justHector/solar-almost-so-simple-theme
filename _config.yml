@@ -4,6 +4,9 @@
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
+# 
+
+
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -11,14 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
-
-
-
 #theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme"
 locale: en_US
 title: "Aburrido.Digital"
+
+
 description: "Al parecer ahora si ya funciona éste theme..."
 url: "//justhector.github.io/almost-so-simple-theme/"
 #logo:  '/images/shield_DAR_fondo.png' # eitplume_SOHO_Sun_mod.png # 
